@@ -1,3 +1,3 @@
 # Progetto Sistemi Embedded
-## Obiettivo del progetto
-Creare un sistema di sicurezza
+## HowTo
+Per ulteriori informazioni del progetto aprire il file <code>ProgettoSistemiEmbedded.pdf</code>
